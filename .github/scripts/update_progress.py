@@ -17,9 +17,9 @@ def update_readme():
     text = README.read_text()
 
     # Replace solved numbers
-    text = re.sub(r"(\| 🟢 Easy\s*\|\s*)\d+", rf"\1{easy}", text)
-    text = re.sub(r"(\| 🟡 Medium\s*\|\s*)\d+", rf"\1{medium}", text)
-    text = re.sub(r"(\| 🔴 Hard\s*\|\s*)\d+", rf"\1{hard}", text)
+    text = re.sub(r"(\| 🟢 Easy\s*\|\s*)\d+", r"\1" + str(easy), text)
+    text = re.sub(r"(\| 🟡 Medium\s*\|\s*)\d+", r"\1" + str(medium), text)
+    text = re.sub(r"(\| 🔴 Hard\s*\|\s*)\d+", r"\1" + str(hard), text)
 
     README.write_text(text)
     print("✅ README updated successfully")
