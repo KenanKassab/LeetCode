@@ -9,9 +9,9 @@ Automatically synced with my latest submissions 🚀
 
 | Difficulty | Solved | Total | Progress |
 |-------------|--------|--------|-----------|
-| 🟢 Easy     | 99     | 650    | ![Easy Progress](https://progress-bar.dev/5/?title=Easy) |
-| 🟡 Medium   | 178     | 1400   | ![Medium Progress](https://progress-bar.dev/2/?title=Medium) |
-| 🔴 Hard     | 68      | 350    | ![Hard Progress](https://progress-bar.dev/1/?title=Hard) |
+| 🟢 Easy     | 100     | 650    | ![Easy Progress](https://progress-bar.dev/5/?title=Easy) |
+| 🟡 Medium   | 179     | 1400   | ![Medium Progress](https://progress-bar.dev/2/?title=Medium) |
+| 🔴 Hard     | 69      | 350    | ![Hard Progress](https://progress-bar.dev/1/?title=Hard) |
 
 ---
 
