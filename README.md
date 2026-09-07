@@ -11,7 +11,7 @@ Automatically synced with my latest submissions 🚀
 |-------------|--------|--------|-----------|
 | 🟢 Easy     | 101     | 650    | ![Easy Progress](https://progress-bar.dev/5/?title=Easy) |
 | 🟡 Medium   | 181     | 1400   | ![Medium Progress](https://progress-bar.dev/2/?title=Medium) |
-| 🔴 Hard     | 69      | 350    | ![Hard Progress](https://progress-bar.dev/1/?title=Hard) |
+| 🔴 Hard     | 70      | 350    | ![Hard Progress](https://progress-bar.dev/1/?title=Hard) |
 
 ---
 
